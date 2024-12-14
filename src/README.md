@@ -12,8 +12,7 @@ Os arquivos neste diretório estão organizados por funcionalidade:
 src/
 ├── data_preparation.py       # Funções para limpeza e transformação dos dados
 ├── clustering.py             # Implementação do algoritmo de clustering
-├── visualization.py          # Funções para criação de gráficos e visualizações
-└── utils.py                  # Funções utilitárias de uso geral
+└── visualization.py          # Funções para criação de gráficos e visualizações 
 ```
 
 ---
