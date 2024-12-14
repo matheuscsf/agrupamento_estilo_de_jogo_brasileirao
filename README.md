@@ -24,7 +24,6 @@ O principal objetivo deste projeto é:
 ├── notebooks/               # Notebooks Jupyter
 ├── src/                     # Código-fonte
 ├── tests/                   # Scripts de testes
-├── reports/                 # Relatórios e gráficos
 └── README.md                # Documentação do projeto
 ````
 
